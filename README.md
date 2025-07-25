@@ -1,2 +1,2 @@
 # PRACTICE1---JS
-My Journey for JavaScript
+My Journey to JavaScript
